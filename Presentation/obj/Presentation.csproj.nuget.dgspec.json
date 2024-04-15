@@ -1,0 +1,417 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Presentation\\Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj"
+              },
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj"
+              },
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Presentation\\Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Presentation\\Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Presentation\\Presentation.csproj",
+        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Application\\Application.csproj"
+              },
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj"
+              },
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj"
+              },
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Newtonsoft": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
