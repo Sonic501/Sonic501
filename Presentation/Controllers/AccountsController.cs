@@ -24,7 +24,7 @@ namespace Presentation.Controllers
         {
             Account acc = new Account();
             acc.Id = Guid.NewGuid();
-            acc.FirstName = " Nguyen Thi";
+            acc.FirstName = "Nguyen Thi";
             acc.LastName = "Minh Chau";
             acc.Email = "sonic@gmail.com";
             acc.Role = "Admin";
