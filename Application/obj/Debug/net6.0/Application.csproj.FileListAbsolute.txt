@@ -17,3 +17,23 @@ C:\Users\Janglee\Desktop\RepositoryPattern\Application\obj\Debug\net6.0\Applicat
 C:\Users\Janglee\Desktop\RepositoryPattern\Application\obj\Debug\net6.0\refint\Application.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Application\obj\Debug\net6.0\Application.pdb
 C:\Users\Janglee\Desktop\RepositoryPattern\Application\obj\Debug\net6.0\ref\Application.dll
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Application.deps.json
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Application.dll
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Application.pdb
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Common.dll
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Data.dll
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Domain.dll
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Common.pdb
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Data.pdb
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Domain.pdb
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.sourcelink.json
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.dll
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\refint\Application.dll
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.pdb
+D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\ref\Application.dll

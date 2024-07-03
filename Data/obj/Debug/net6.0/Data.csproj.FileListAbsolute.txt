@@ -13,3 +13,19 @@ C:\Users\Janglee\Desktop\RepositoryPattern\Data\obj\Debug\net6.0\Data.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Data\obj\Debug\net6.0\refint\Data.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Data\obj\Debug\net6.0\Data.pdb
 C:\Users\Janglee\Desktop\RepositoryPattern\Data\obj\Debug\net6.0\ref\Data.dll
+D:\current work\Ecommerce Web\Data\bin\Debug\net6.0\Data.deps.json
+D:\current work\Ecommerce Web\Data\bin\Debug\net6.0\Data.dll
+D:\current work\Ecommerce Web\Data\bin\Debug\net6.0\Data.pdb
+D:\current work\Ecommerce Web\Data\bin\Debug\net6.0\Domain.dll
+D:\current work\Ecommerce Web\Data\bin\Debug\net6.0\Domain.pdb
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.sourcelink.json
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.dll
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\refint\Data.dll
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.pdb
+D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\ref\Data.dll

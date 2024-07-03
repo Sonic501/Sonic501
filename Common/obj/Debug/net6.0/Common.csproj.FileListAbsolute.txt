@@ -10,3 +10,15 @@ C:\Users\Janglee\Desktop\RepositoryPattern\Common\obj\Debug\net6.0\Common.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Common\obj\Debug\net6.0\refint\Common.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Common\obj\Debug\net6.0\Common.pdb
 C:\Users\Janglee\Desktop\RepositoryPattern\Common\obj\Debug\net6.0\ref\Common.dll
+D:\current work\Ecommerce Web\Common\bin\Debug\net6.0\Common.deps.json
+D:\current work\Ecommerce Web\Common\bin\Debug\net6.0\Common.dll
+D:\current work\Ecommerce Web\Common\bin\Debug\net6.0\Common.pdb
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\Common.sourcelink.json
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\Common.dll
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\refint\Common.dll
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\Common.pdb
+D:\current work\Ecommerce Web\Common\obj\Debug\net6.0\ref\Common.dll

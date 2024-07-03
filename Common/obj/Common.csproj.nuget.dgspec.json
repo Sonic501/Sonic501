@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj": {}
+    "D:\\current work\\Ecommerce Web\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj": {
+    "D:\\current work\\Ecommerce Web\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\current work\\Ecommerce Web\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Common\\obj\\",
+        "projectPath": "D:\\current work\\Ecommerce Web\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Sonic\\.nuget\\packages\\",
+        "outputPath": "D:\\current work\\Ecommerce Web\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sonic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

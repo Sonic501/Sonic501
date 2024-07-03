@@ -1,10 +1,17 @@
-using Newtonsoft.Json.Converters;
+﻿using Newtonsoft.Json.Converters;
 using Newtonsoft.Json.Serialization;
 using Infrastructure.Configurations;
+using Microsoft.EntityFrameworkCore;
+using Domain.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+// Lấy chuỗi kết nối
+var sqlConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+// Kết nối với Database
+builder.Services.AddDbContext<EcommerceContext>(options =>
+        options.UseSqlServer(sqlConnectionString));
 
 builder.Services.AddControllers();
 builder.Services.AddControllersWithViews()

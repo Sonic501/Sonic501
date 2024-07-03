@@ -19,3 +19,25 @@ C:\Users\Janglee\Desktop\RepositoryPattern\Infrastructure\obj\Debug\net6.0\Infra
 C:\Users\Janglee\Desktop\RepositoryPattern\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 C:\Users\Janglee\Desktop\RepositoryPattern\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Common.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Data.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Data.pdb
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Common.pdb
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.sourcelink.json
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

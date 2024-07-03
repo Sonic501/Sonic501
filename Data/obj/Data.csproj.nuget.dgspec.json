@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj": {}
+    "D:\\current work\\Ecommerce Web\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj": {
+    "D:\\current work\\Ecommerce Web\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj",
+        "projectUniqueName": "D:\\current work\\Ecommerce Web\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Data\\obj\\",
+        "projectPath": "D:\\current work\\Ecommerce Web\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Sonic\\.nuget\\packages\\",
+        "outputPath": "D:\\current work\\Ecommerce Web\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sonic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj"
+              "D:\\current work\\Ecommerce Web\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\current work\\Ecommerce Web\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj": {
+    "D:\\current work\\Ecommerce Web\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\current work\\Ecommerce Web\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janglee\\Desktop\\RepositoryPattern\\Domain\\obj\\",
+        "projectPath": "D:\\current work\\Ecommerce Web\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Sonic\\.nuget\\packages\\",
+        "outputPath": "D:\\current work\\Ecommerce Web\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sonic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,6 +116,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -132,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

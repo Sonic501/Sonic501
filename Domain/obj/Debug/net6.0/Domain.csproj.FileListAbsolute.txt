@@ -10,3 +10,18 @@ C:\Users\Janglee\Desktop\RepositoryPattern\Domain\obj\Debug\net6.0\Domain.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\Janglee\Desktop\RepositoryPattern\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\Janglee\Desktop\RepositoryPattern\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\current work\Ecommerce Web\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\current work\Ecommerce Web\Domain\bin\Debug\net6.0\Domain.dll
+D:\current work\Ecommerce Web\Domain\bin\Debug\net6.0\Domain.pdb
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.dll
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.pdb
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\current work\Ecommerce Web\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
