@@ -22,11 +22,14 @@ jobs:
           dotnet-version: '6.0.x'
           include-prerelease: true
 
+
+      - name: Restore NuGet packages
+        run: dotnet restore  
       - name: Build with dotnet
         run: dotnet build --configuration Release
+      - name: Build and publish Presentation project
+        run: dotnet publish "Presentation/Presentation.csproj" -c Release -o ${{env.DOTNET_ROOT}}/myapp
 
-      - name: dotnet publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
@@ -52,9 +55,9 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v1
         with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_F54622F37D5A498C9302BB5DA2FF74AA }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_7367B30996194BED9956E285FAAD85BF }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_01941608CF6C46E9A9CA3A14F77EF6C4 }}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_9685E106305E4D1DB2D9978F76A1E25B }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_0D5A5B206EB14C699E9A750E3935DAB4 }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_476F2552102242FCBDBAF8876523F015 }}
 
       - name: Deploy to Azure Web App
         id: deploy-to-webapp
@@ -63,4 +66,3 @@ jobs:
           app-name: 'sonic221'
           slot-name: 'Production'
           package: .
-          
