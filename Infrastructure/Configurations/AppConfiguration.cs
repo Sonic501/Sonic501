@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.OpenApi.Models;
+using Data;
 
 namespace Infrastructure.Configurations
 {
@@ -8,9 +9,9 @@ namespace Infrastructure.Configurations
     {
         public static void AddDependenceInjection(this IServiceCollection services)
         {
-            //services.AddScoped<IProductService, ProductService>();
+            //services.AddScoped<IProductService, Product                                                                                     Service>();
 
-            //services.AddTransient<IUnitOfWork, UnitOfWork>();
+            services.AddTransient<IUnitOfWork, UnitOfWork>();
         }
 
         public static void AddSwagger(this IServiceCollection services)

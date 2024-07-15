@@ -37,3 +37,5 @@ D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.dll
 D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\refint\Application.dll
 D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\Application.pdb
 D:\current work\Ecommerce Web\Application\obj\Debug\net6.0\ref\Application.dll
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Dependencies.dll
+D:\current work\Ecommerce Web\Application\bin\Debug\net6.0\Dependencies.pdb

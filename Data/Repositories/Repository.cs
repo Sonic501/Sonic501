@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
 namespace Data.Repositories
@@ -7,10 +8,10 @@ namespace Data.Repositories
     {
         protected readonly DbSet<T> _entities;
 
-        //public Repository(DatabaseContext context)
-        //{
-        //    _entities = context.Set<T>();
-        //}
+        public Repository(EcommerceContext context)
+        {
+            _entities = context.Set<T>();
+        }
 
         public void Add(T entity)
         {

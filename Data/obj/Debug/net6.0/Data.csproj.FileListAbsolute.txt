@@ -29,3 +29,5 @@ D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.dll
 D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\refint\Data.dll
 D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\Data.pdb
 D:\current work\Ecommerce Web\Data\obj\Debug\net6.0\ref\Data.dll
+D:\current work\Ecommerce Web\Data\bin\Debug\net6.0\Dependencies.dll
+D:\current work\Ecommerce Web\Data\bin\Debug\net6.0\Dependencies.pdb

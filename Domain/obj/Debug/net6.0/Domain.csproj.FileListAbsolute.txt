@@ -25,3 +25,6 @@ D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\ref\Domain.dll
 D:\current work\Ecommerce Web\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
 D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
 D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\current work\Ecommerce Web\Domain\bin\Debug\net6.0\Dependencies.dll
+D:\current work\Ecommerce Web\Domain\bin\Debug\net6.0\Dependencies.pdb
+D:\current work\Ecommerce Web\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete

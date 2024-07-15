@@ -9,8 +9,9 @@
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Models\Creates\" />
-    <Folder Include="Models\Views\" />
+    <Folder Include="Models\Filters\" />
     <Folder Include="Models\Updates\" />
+    <Folder Include="Models\Views\" />
     <Folder Include="Specifications\" />
   </ItemGroup>
 
@@ -20,6 +21,10 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dependencies\Dependencies.csproj" />
   </ItemGroup>
 
 </Project>

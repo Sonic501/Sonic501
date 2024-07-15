@@ -337,3 +337,5 @@ D:\current work\Ecommerce Web\Presentation\bin\Debug\net6.0\Microsoft.Extensions
 D:\current work\Ecommerce Web\Presentation\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\current work\Ecommerce Web\Presentation\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 D:\current work\Ecommerce Web\Presentation\bin\Debug\net6.0\System.Memory.Data.dll
+D:\current work\Ecommerce Web\Presentation\bin\Debug\net6.0\Dependencies.dll
+D:\current work\Ecommerce Web\Presentation\bin\Debug\net6.0\Dependencies.pdb

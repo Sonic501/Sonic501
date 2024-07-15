@@ -41,3 +41,5 @@ D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
 D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
 D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
 D:\current work\Ecommerce Web\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Dependencies.dll
+D:\current work\Ecommerce Web\Infrastructure\bin\Debug\net6.0\Dependencies.pdb
